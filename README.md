@@ -95,21 +95,21 @@ A GUI-based terminal emulator built using **C++ and Raylib**.
 
 # 🛠️ Tech Stack
 
-### 💻 Programming Languages
+<h3 align="center">💻 Programming Languages</h3>
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,c,js,html,css" />
 </p>
 
-### 🤖 AI / Machine Learning
+<h3 align="center">🤖 AI / Machine Learning</h3>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,numpy,pandas,yolo" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv" />
 </p>
 
-### 🛠️ Tools & Technologies
+<h3 align="center">🛠️ Tools & Technologies</h3>
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda" />
 </p>
 
@@ -171,11 +171,11 @@ A GUI-based terminal emulator built using **C++ and Raylib**.
 </a>
 
 <a href="https://leetcode.com/u/Nimisha_10/">
-  <img src="https://img.shields.io/badge/LeetCode-YOUR_USERNAME-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LeetCode-Nimisha_10-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <a href="mailto:singhalnimisha761@gmail.com">
-  <img src="https://img.shields.io/badge/Email-YOUR_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-singhalnimisha761@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
