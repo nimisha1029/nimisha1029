@@ -170,9 +170,6 @@ A GUI-based terminal emulator built using **C++ and Raylib**.
   <img src="https://img.shields.io/badge/LinkedIn-Nimisha%20Singhal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/Nimisha_10/">
-  <img src="https://img.shields.io/badge/LeetCode-Nimisha_10-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
 
 <a href="mailto:singhalnimisha761@gmail.com">
   <img src="https://img.shields.io/badge/Email-singhalnimisha761@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
