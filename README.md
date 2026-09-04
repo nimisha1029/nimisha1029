@@ -104,7 +104,7 @@ A GUI-based terminal emulator built using **C++ and Raylib**.
 ### 🤖 AI / Machine Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,numpy,pandas,yolo" />
 </p>
 
 ### 🛠️ Tools & Technologies
@@ -148,39 +148,6 @@ A GUI-based terminal emulator built using **C++ and Raylib**.
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nimisha1029&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimisha1029&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimisha1029&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nimisha1029&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nimisha1029&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
 
 # 🎯 Current Goals
 
@@ -195,21 +162,23 @@ A GUI-based terminal emulator built using **C++ and Raylib**.
 
 ---
 
-# 🌐 Connect With Me
+# 🌐 Connect 
 
 <p align="center">
 
-<a href="https://github.com/nimisha1029">
-  <img src="https://skillicons.dev/icons?i=github" />
+<a href="www.linkedin.com/in/nimisha-singhal-068336341">
+  <img src="https://img.shields.io/badge/LinkedIn-Nimisha%20Singhal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="www.linkedin.com/in/nimisha-singhal-068336341">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="https://leetcode.com/u/Nimisha_10/">
+  <img src="https://img.shields.io/badge/LeetCode-YOUR_USERNAME-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="mailto:singhalnimisha761@gmail.com">
+  <img src="https://img.shields.io/badge/Email-YOUR_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
-
----
 
 <h3 align="center">
 ✨ The best way to learn is to build. ✨
