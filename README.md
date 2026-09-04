@@ -20,32 +20,8 @@
 ---
 
 ## 👩‍💻 About Me
+B.Tech electrical engineering student @ IIT Jodhpur (CGPA : 8.64/10) passionate for web development and exploring new frameworks, doing aiml , data structures projects.
 
-```python
-class Nimisha:
-
-    def __init__(self):
-        self.education = "B.Tech Electrical Engineering"
-        
-        self.interests = [
-            "Software Development",
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Computer Vision"
-        ]
-
-        self.currently_learning = [
-            "Data Structures & Algorithms",
-            "PyTorch",
-            "YOLO",
-            "OpenCV"
-        ]
-
-        self.current_goal = "Build impactful projects and become a better problem solver 🚀"
-
-
-me = Nimisha()
-```
 
 * 🔭 Currently working on **Drone Detection & Classification using YOLO**
 * 🤖 Exploring **Machine Learning, Deep Learning & Computer Vision**
@@ -55,7 +31,7 @@ me = Nimisha()
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Currently 
 
 ## 🚁 Drone Detection & Friend-or-Foe Classification
 
@@ -73,6 +49,7 @@ An AI-based system designed to:
 </p>
 
 ---
+# previous project-
 
 ## 💻 AETHER — Graphical Terminal Emulator
 
