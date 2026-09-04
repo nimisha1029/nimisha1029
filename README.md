@@ -128,14 +128,13 @@ A GUI-based terminal emulator built using **C++ and Raylib**.
 
 # 🎯 Current Goals
 
-```text
+
 🚀 Build impactful projects
 💻 Master Data Structures & Algorithms
 🤖 Explore AI, Machine Learning & Computer Vision
 🌱 Contribute to Open Source
 🎯 Prepare for Software Engineering Internships
 📚 Keep learning every day
-```
 
 ---
 
