@@ -1,9 +1,9 @@
 <!-- ===================== HERO SECTION ===================== -->
 
-<h1 align="center">Hi 👋, I'm Nimisha Singhal</h1>
+<h1 align="center">Hi, I'm Nimisha Singhal</h1>
 
 <h3 align="center">
-  B.Tech Electrical Engineering Student ⚡ | Aspiring Software Developer 💻 | Exploring AI & Computer Vision 🤖
+  Sophomore @ IITJ'29 [EE] | Learning by building things 
 </h3>
 
 <p align="center">
@@ -20,27 +20,21 @@
 ---
 
 ## 👩‍💻 About Me
-B.Tech electrical engineering student @ IIT Jodhpur (CGPA : 8.64/10) passionate for web development and exploring new frameworks, doing aiml , data structures projects.
+Second Year Student pursuing B.Tech in Electrical Engineering (CGPA : 8.64/10) passionate for web development and exploring new frameworks.
 
-
-* 🔭 Currently working on **Drone Detection & Classification using YOLO**
-* 🤖 Exploring **Machine Learning, Deep Learning & Computer Vision**
-* 💻 Improving my **Data Structures & Algorithms and Problem-Solving Skills**
-* 🚀 Building projects and learning by doing
-* 🌱 Always curious to learn something new
+* Building projects and learning by doing
 
 ---
 
 # 🚀 Currently 
 
-## 🚁 Drone Detection & Friend-or-Foe Classification
+## Drone Detection & Friend-or-Foe Classification
 
 An AI-based system designed to:
 
-* 🎯 Detect drones and aerial objects
-* 🧠 Identify different types of drones
-* 🟢 Classify objects as **Friendly or Enemy**
-* 📹 Perform real-time detection using a webcam
+* Detect drones and aerial objects
+* Classify objects as **Friendly or Enemy**
+* Perform real-time detection using a webcam
 
 **Tech Stack**
 
@@ -49,92 +43,43 @@ An AI-based system designed to:
 </p>
 
 ---
-# previous project-
+# Previous project-
 
-## 💻 AETHER — Graphical Terminal Emulator
+## AETHER — Graphical Terminal Emulator
 
 A GUI-based terminal emulator built using **C++ and Raylib**.
 
 ### Features
 
-* 📁 File and directory operations
-* ⌨️ Command history
-* ⚡ Tab completion
-* 📂 Directory navigation
-* 🔄 Copy, move, rename and duplicate files
-* 📜 Scrolling and auto-scroll
-
+* File and directory operations
+* Command history
+* Tab completion
+* Directory navigation
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,github" />
 </p>
 
 ---
 
 # 🛠️ Tech Stack
 
-<h3 align="center">💻 Programming Languages</h3>
+<h3 align="left"> Programming Languages</h3>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,c,js,html,css" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,c,js" />
 </p>
 
-<h3 align="center">🤖 AI / Machine Learning</h3>
+<h3 align="left">AI / Machine Learning</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,pytorch,opencv" />
 </p>
 
-<h3 align="center">🛠️ Tools & Technologies</h3>
+<h3 align="left">Tools & Technologies</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda" />
 </p>
-
----
-
-# 📚 Currently Learning
-
-<table>
-<tr>
-
-<td width="50%">
-
-### 🤖 Artificial Intelligence
-
-* Machine Learning
-* Deep Learning
-* Computer Vision
-* Object Detection
-* YOLO
-
-</td>
-
-<td width="50%">
-
-### 💻 Computer Science
-
-* Data Structures
-* Algorithms
-* Problem Solving
-* Competitive Programming
-
-</td>
-
-</tr>
-</table>
-
----
-
-
-# 🎯 Current Goals
-
-
-🚀 Build impactful projects
-💻 Master Data Structures & Algorithms
-🤖 Explore AI, Machine Learning & Computer Vision
-🌱 Contribute to Open Source
-🎯 Prepare for Software Engineering Internships
-📚 Keep learning every day
 
 ---
 
