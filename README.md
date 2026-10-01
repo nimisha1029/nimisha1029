@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Nimisha Singhal</h1>
 
 <h3 align="center">
-  Sophomore @ IITJ'29 [EE] | Learning by building things 
+  Sophomore @ IITJ'29 [EE] | Building projects and learning by doing 
 </h3>
 
 <p align="center">
@@ -21,9 +21,6 @@
 
 ## 👩‍💻 About Me
 Second Year Student pursuing B.Tech in Electrical Engineering (CGPA : 8.64/10) passionate for web development and exploring new frameworks.
-
-* Building projects and learning by doing
-
 ---
 
 # 🚀 Currently 
