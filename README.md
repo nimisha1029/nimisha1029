@@ -21,6 +21,7 @@
 
 ## 👩‍💻 About Me
 Second Year Student pursuing B.Tech in Electrical Engineering (CGPA : 8.64/10) passionate for web development and exploring new frameworks.
+
 ---
 
 # 🚀 Currently 
@@ -37,23 +38,6 @@ An AI-based system designed to:
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,pytorch,opencv" />
-</p>
-
----
-# Previous project-
-
-## AETHER — Graphical Terminal Emulator
-
-A GUI-based terminal emulator built using **C++ and Raylib**.
-
-### Features
-
-* File and directory operations
-* Command history
-* Tab completion
-* Directory navigation
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,github" />
 </p>
 
 ---
