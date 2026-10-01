@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+things%2C+to+experience+and+analyse+beauty+of+code;Exploring+Software+Development+%26+AI;Understanding+Machine+Learning+%26+Computer+Vision+👁️;Turning+ideas+into+code" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+things%2C+to+experience+and+analyse+beauty+of+code;Exploring+Software+Development+%26+AI;Understanding+Machine+Learning+%26+Computer+Vision+👁️;Turning+ideas+into+code" />
 </p>
 
 <p align="center">
