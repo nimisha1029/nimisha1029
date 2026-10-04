@@ -35,7 +35,7 @@ An AI-based system designed to:
 
 ---
 
-# Tech Stack
+# Tech Stacks I work with 
 
 <h3 align="left"> Programming Languages</h3>
 
