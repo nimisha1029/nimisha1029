@@ -19,12 +19,12 @@
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 Second Year Student pursuing B.Tech in Electrical Engineering (CGPA : 8.64/10) passionate for web development and exploring new frameworks.
 
 ---
 
-# 🚀 Currently 
+# Currently 
 
 ## Drone Detection & Friend-or-Foe Classification
 
@@ -42,7 +42,7 @@ An AI-based system designed to:
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 <h3 align="left"> Programming Languages</h3>
 
@@ -64,7 +64,7 @@ An AI-based system designed to:
 
 ---
 
-# 🌐 Connect 
+# Connect 
 
 <p align="center">
 
