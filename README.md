@@ -88,7 +88,7 @@ Second Year Student pursuing B.Tech in Electrical Engineering (CGPA : 8.64/10) p
 
 ---
 
-<h2 align="center">GitHub Stats</h2>
+<h2 align="left">GitHub Stats</h2>
 
 <p align="center">
   <img
