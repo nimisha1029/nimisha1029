@@ -37,21 +37,21 @@ An AI-based system designed to:
 
 # Tech Stacks I Have Worked With 
 
-<h3 align="centre"> Programming Languages</h3>
+<h3 align="center"> Programming Languages</h3>
 
-<p align="centre">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,c,js" />
 </p>
 
-<h3 align="centre">AI / Machine Learning</h3>
+<h3 align="center">AI / Machine Learning</h3>
 
-<p align="centre">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,opencv" />
 </p>
 
-<h3 align="centre">Tools & Technologies</h3>
+<h3 align="center">Tools & Technologies</h3>
 
-<p align="centre">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda" />
 </p>
 
