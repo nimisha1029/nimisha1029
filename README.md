@@ -35,23 +35,23 @@ An AI-based system designed to:
 
 ---
 
-# Tech Stacks I work with 
+# Tech Stacks I Have Worked With 
 
-<h3 align="left"> Programming Languages</h3>
+<h3 align="centre"> Programming Languages</h3>
 
-<p align="left">
+<p align="centre">
   <img src="https://skillicons.dev/icons?i=cpp,python,c,js" />
 </p>
 
-<h3 align="left">AI / Machine Learning</h3>
+<h3 align="centre">AI / Machine Learning</h3>
 
-<p align="left">
+<p align="centre">
   <img src="https://skillicons.dev/icons?i=python,pytorch,opencv" />
 </p>
 
-<h3 align="left">Tools & Technologies</h3>
+<h3 align="centre">Tools & Technologies</h3>
 
-<p align="left">
+<p align="centre">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda" />
 </p>
 
