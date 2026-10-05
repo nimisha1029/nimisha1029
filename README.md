@@ -39,72 +39,70 @@ An AI-based system designed to:
 
 <h3 align="center">Programming Languages</h3>
 
-<p align="center">
-  <span>
-    <img src="https://skillicons.dev/icons?i=cpp" width="50"/><br>
-    C++
-  </span>
-  &nbsp;&nbsp;&nbsp;
-  <span>
-    <img src="https://skillicons.dev/icons?i=python" width="50"/><br>
-    Python
-  </span>
-  &nbsp;&nbsp;&nbsp;
-  <span>
-    <img src="https://skillicons.dev/icons?i=c" width="50"/><br>
-    C
-  </span>
-  &nbsp;&nbsp;&nbsp;
-  <span>
-    <img src="https://skillicons.dev/icons?i=js" width="50"/><br>
-    JavaScript
-  </span>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=cpp" width="50"><br>
+      <b>C++</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python" width="50"><br>
+      <b>Python</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=c" width="50"><br>
+      <b>C</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=js" width="50"><br>
+      <b>JavaScript</b>
+    </td>
+  </tr>
+</table>
 
 
 <h3 align="center">AI / Machine Learning</h3>
 
-<p align="center">
-  <span>
-    <img src="https://skillicons.dev/icons?i=python" width="50"/><br>
-    Python
-  </span>
-  &nbsp;&nbsp;&nbsp;
-  <span>
-    <img src="https://skillicons.dev/icons?i=pytorch" width="50"/><br>
-    PyTorch
-  </span>
-  &nbsp;&nbsp;&nbsp;
-  <span>
-    <img src="https://skillicons.dev/icons?i=opencv" width="50"/><br>
-    OpenCV
-  </span>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python" width="50"><br>
+      <b>Python</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=pytorch" width="50"><br>
+      <b>PyTorch</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=opencv" width="50"><br>
+      <b>OpenCV</b>
+    </td>
+  </tr>
+</table>
 
 
 <h3 align="center">Tools & Technologies</h3>
 
-<p align="center">
-  <span>
-    <img src="https://skillicons.dev/icons?i=git" width="50"/><br>
-    Git
-  </span>
-  &nbsp;&nbsp;&nbsp;
-  <span>
-    <img src="https://skillicons.dev/icons?i=github" width="50"/><br>
-    GitHub
-  </span>
-  &nbsp;&nbsp;&nbsp;
-  <span>
-    <img src="https://skillicons.dev/icons?i=vscode" width="50"/><br>
-    VS Code
-  </span>
-  &nbsp;&nbsp;&nbsp;
-  <span>
-    <img src="https://skillicons.dev/icons?i=anaconda" width="50"/><br>
-    Anaconda
-  </span>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git" width="50"><br>
+      <b>Git</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=github" width="50"><br>
+      <b>GitHub</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vscode" width="50"><br>
+      <b>VS Code</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=anaconda" width="50"><br>
+      <b>Anaconda</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
