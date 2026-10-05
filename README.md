@@ -37,22 +37,73 @@ An AI-based system designed to:
 
 # Tech Stacks I Have Worked With 
 
-<h3 align="center"> Programming Languages</h3>
+<h3 align="center">Programming Languages</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,c,js" />
+  <span>
+    <img src="https://skillicons.dev/icons?i=cpp" width="50"/><br>
+    C++
+  </span>
+  &nbsp;&nbsp;&nbsp;
+  <span>
+    <img src="https://skillicons.dev/icons?i=python" width="50"/><br>
+    Python
+  </span>
+  &nbsp;&nbsp;&nbsp;
+  <span>
+    <img src="https://skillicons.dev/icons?i=c" width="50"/><br>
+    C
+  </span>
+  &nbsp;&nbsp;&nbsp;
+  <span>
+    <img src="https://skillicons.dev/icons?i=js" width="50"/><br>
+    JavaScript
+  </span>
 </p>
+
 
 <h3 align="center">AI / Machine Learning</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv" />
+  <span>
+    <img src="https://skillicons.dev/icons?i=python" width="50"/><br>
+    Python
+  </span>
+  &nbsp;&nbsp;&nbsp;
+  <span>
+    <img src="https://skillicons.dev/icons?i=pytorch" width="50"/><br>
+    PyTorch
+  </span>
+  &nbsp;&nbsp;&nbsp;
+  <span>
+    <img src="https://skillicons.dev/icons?i=opencv" width="50"/><br>
+    OpenCV
+  </span>
 </p>
+
 
 <h3 align="center">Tools & Technologies</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda" />
+  <span>
+    <img src="https://skillicons.dev/icons?i=git" width="50"/><br>
+    Git
+  </span>
+  &nbsp;&nbsp;&nbsp;
+  <span>
+    <img src="https://skillicons.dev/icons?i=github" width="50"/><br>
+    GitHub
+  </span>
+  &nbsp;&nbsp;&nbsp;
+  <span>
+    <img src="https://skillicons.dev/icons?i=vscode" width="50"/><br>
+    VS Code
+  </span>
+  &nbsp;&nbsp;&nbsp;
+  <span>
+    <img src="https://skillicons.dev/icons?i=anaconda" width="50"/><br>
+    Anaconda
+  </span>
 </p>
 
 ---
