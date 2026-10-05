@@ -17,24 +17,6 @@ Second Year Student pursuing B.Tech in Electrical Engineering (CGPA : 8.64/10) p
 
 ---
 
-# Currently 
-
-## Drone Detection & Friend-or-Foe Classification
-
-An AI-based system designed to:
-
-* Detect drones and aerial objects
-* Classify objects as **Friendly or Enemy**
-* Perform real-time detection using a webcam
-
-**Tech Stack**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv" />
-</p>
-
----
-
 # Tech Stacks I Have Worked With 
 
 <h3 align="center">Programming Languages</h3>
@@ -105,6 +87,19 @@ An AI-based system designed to:
 </table>
 
 ---
+
+<h2 align="center">GitHub Stats</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=nimisha1029&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimisha1029&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+</p>
 
 # Connect 
 
