@@ -17,7 +17,7 @@ Second Year Student pursuing B.Tech in Electrical Engineering (CGPA : 8.64/10) p
 
 ---
 
-# Tech Stacks I Have Worked With 
+## Tech Stacks I Have Worked With 
 
 <h3 align="center">Programming Languages</h3>
 
@@ -101,7 +101,7 @@ Second Year Student pursuing B.Tech in Electrical Engineering (CGPA : 8.64/10) p
   />
 </p>
 
-# Connect 
+## Connect 
 
 <p align="center">
 
