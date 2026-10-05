@@ -103,7 +103,6 @@ An AI-based system designed to:
     </td>
   </tr>
 </table>
-
 ---
 
 # Connect 
@@ -120,10 +119,6 @@ An AI-based system designed to:
 </a>
 
 </p>
-
-<h3 align="center">
-✨ The best way to learn is to build. ✨
-</h3>
 
 <p align="center">
   ⭐ Thanks for visiting my profile! Feel free to explore my repositories.
