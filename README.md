@@ -13,7 +13,7 @@
 ---
 
 ## About Me
-Second Year Student pursuing B.Tech in Electrical Engineering (CGPA : 8.64/10) passionate for web development and exploring new frameworks.
+Second Year Student pursuing B.Tech in Electrical Engineering (CGPA : 8.64/10) passionate for software development and exploring new frameworks.
 
 ---
 
